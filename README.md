@@ -2,3 +2,5 @@
 https://rpubs.com/byglinsky/Homework_1
 # Homework 2 - Advanced Analytics
 https://rpubs.com/byglinsky/Homework_2
+# Homework 3 - Advanced Analytics
+https://rpubs.com/byglinsky/Homework_3
